@@ -1,6 +1,6 @@
 # The website of Dr Andrew Ollerton
 
-This website is based on Macboeck's simple Eleventy Starter Kit. ([Demo Site](https://eleventastic.netlify.com))
+This website is based on Maxcboeck's simple Eleventy Starter Kit. ([Demo Site](https://eleventastic.netlify.com))
 
 ## Features
 
